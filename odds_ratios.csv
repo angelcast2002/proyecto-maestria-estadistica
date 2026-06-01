@@ -1,5 +1,5 @@
 "","x"
-"(Intercept)",0.891429541904217
+"(Intercept)",0.891429541904216
 "subscription_length",1.0060623012377
 "satisfaction",1.01669780318723
 "watch_time",0.987806452302457
@@ -8,4 +8,4 @@
 "income",1.00002023123917
 "payment_historyOn-Time",1.04565932171003
 "subscription_planPremium",0.950912565418543
-"subscription_planStandard",0.947491815070804
+"subscription_planStandard",0.947491815070805
